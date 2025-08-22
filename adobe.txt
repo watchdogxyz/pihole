@@ -1,3 +1,5 @@
+adobestats.io
+hstatic.io
 activate.adobe.com
 practivate.adobe.com
 ereg.adobe.com
