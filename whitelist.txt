@@ -25,3 +25,13 @@ ads.google.com
 analytics-alv.google.com
 analytics.google.com
 tagmanager.google.com
+displayads-formats.googleusercontent.com
+monitoring.eu-central-1.amazonaws.com
+telemetry.cell-0.eu-central-1.prod.tangerinebox.console.aws.a2z.com
+tpc.googlesyndication.com
+ads-product-integration.googleusercontent.com
+adsmarketingfrontend-pa.clients6.google.com
+us-east-1.prod.pr.analytics.console.aws.a2z.com
+marketingplatform.google.com
+ogads-pa.clients6.google.com
+www.googleadservices.com
